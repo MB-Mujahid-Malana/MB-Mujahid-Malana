@@ -26,7 +26,7 @@
 
 ![Mujahid GitHub stats](https://github-readme-stats.vercel.app/api?username=Mujaid&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid&theme=dark)
 
 
 <br>
